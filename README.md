@@ -18,7 +18,17 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
- Include the necessary coding and corresponding screenshots
+![image](https://github.com/user-attachments/assets/bc62d0e9-9865-4dc8-a627-d977f00a9bc6)
+![image](https://github.com/user-attachments/assets/5f25bd3c-5835-42df-9d0e-d6fcf267c7a4)
+![image](https://github.com/user-attachments/assets/f0936341-dd69-46d8-8e08-d49b1dc89303)
+![image](https://github.com/user-attachments/assets/0f3cd4a2-79b5-4882-b225-bee15c56867d)
+![image](https://github.com/user-attachments/assets/4b1834a6-71bc-4320-a75e-12870cda00df)
+![image](https://github.com/user-attachments/assets/21d84ba3-c29c-4766-b7f2-967bbdec4f33)
+![image](https://github.com/user-attachments/assets/3b1ea509-36c5-4e95-a05b-99cf32633acf)
+![image](https://github.com/user-attachments/assets/3886de41-51c7-4254-b0fb-c7f72f7b4126)
+![image](https://github.com/user-attachments/assets/2fc6bcc2-f8cb-4d8b-97ca-d78799b9e968)
+![image](https://github.com/user-attachments/assets/8801be25-8a0d-423a-8214-7be080d12b64)
+
 
 # Result:
  Include your result here
