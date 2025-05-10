@@ -28,7 +28,15 @@ STEP 5:Include Necessary parameters in each functions.
 ![image](https://github.com/user-attachments/assets/3886de41-51c7-4254-b0fb-c7f72f7b4126)
 ![image](https://github.com/user-attachments/assets/2fc6bcc2-f8cb-4d8b-97ca-d78799b9e968)
 ![image](https://github.com/user-attachments/assets/8801be25-8a0d-423a-8214-7be080d12b64)
-
+![image](https://github.com/user-attachments/assets/bb2b34a7-49b0-452a-b376-ee67a49890e0)
+![image](https://github.com/user-attachments/assets/d26e2e69-a35e-4d59-9f80-0bfadfcb4600)
+![image](https://github.com/user-attachments/assets/dd7bd48d-a440-49b3-a8c0-146a46110d54)
+![image](https://github.com/user-attachments/assets/a528d35e-dbcd-410f-b974-dcd23b4b050d)
+![image](https://github.com/user-attachments/assets/f7523321-3f56-4638-be0a-d83c1b364b08)
+![image](https://github.com/user-attachments/assets/2988f01c-c786-4c43-80b6-9da1378bfe83)
+![image](https://github.com/user-attachments/assets/8cea316c-bf90-4c5d-8c53-45d3c6799a58)
+![image](https://github.com/user-attachments/assets/6f1732ef-b969-47d5-96ee-fa06ecda8594)
+![image](https://github.com/user-attachments/assets/c5e380a5-bb1c-4ee5-8bbd-5fbc6ba263c4)
 
 # Result:
- Include your result here
+ Thus, the Data Visualization using seaborn python library for the given data is implemented successfully
